@@ -1,2 +1,2 @@
 this is my second file for git course
-adding more content to first file
+adding more content to first gt
