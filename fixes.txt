@@ -3,4 +3,5 @@ second bug detected and fixed.
 another fix.
 fourth bug fixed.
 adding footer section.
-another section
+another .
+rebase fix.
