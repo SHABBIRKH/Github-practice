@@ -5,3 +5,4 @@ fourth bug fixed.
 adding footer section.
 another .
 rebase fix.
+merge reminder.
